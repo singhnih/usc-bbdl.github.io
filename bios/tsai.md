@@ -8,30 +8,22 @@ title: Meng-Fen Tsai
 [Email](mailto:p86024174@mail.ncku.edu.tw)
 
 **Focus**  
-Computer Science PhD Student Working towards high-dimension visualization, static & dynamic musculoskeletal analysis, and scientific replicability across neuromechanical research.
+Biomedical Engineering graduate student working on biomechanical analysis of rehabilitation related topic in stroke and Parkinson's disease patients.
 
 _________
 
 
-#### ValeroLab Publications
+#### Publications
 
-**"Structure of the set of feasible neural commands for complex motor tasks"**  
-37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2015  
-Valero-Cuevas FJ, Cohn BA, Szedlák M, Gärtner B, Fukuda K
+**"Effect of Kinesio Tapping on Cutting Force Control in Food Cutting Tasks"**  
+XIth EUROPEAN FEDERATION OF SOCIETIES FOR HAND THERAPY, 2014  
+Meng-Fen Tsai, Yuh-Ping Tsai, Yi-Hung Lin, Yu-Lin Tsai, Hsiung-Chih Chang, Chien-Ju Lin, Hsiao-Feng Chieh, Fong-Chin Su 
+
 	
-**"Exploring the nature of muscle redundancy via subject-specific and generic musculoskeletal models"**  
-Featured Publication: Journal of Biomechanics, 2015  
-Valero-Cuevas FJ, Cohn BA, Yngvason HF, Lawrence EL
+**"Lower Limb Kinematic Alternations in Female Baby-carrying"**  
+1st Global Conference on Biomedical Engineering, 2014 
+Meng-Fen Tsai, Yi-Hung Lin, Yuh-Ping Tsai, Tse-Yu Tai, Yu-Lin Tsai, Katya Sofonova, Fong-Chin Su
 
-####Publications from other collaborations
-
-**"Retinal topography maps in R: new tools for the analysis and visualization of spatial retinal data."**  
- Journal of Vision July 2015, Vol.15, 19. 2015.  
-Cohn BA, Wainwright P, Collin S, Schmitz L 
-
-**"Eye histology and ganglion cell topography of northern elephant seals (Mirounga angustirostris)"**  
-The Anatomical Record, 2016 , DOI: 10.1002/ar.23342  
-Smodlaka H, Khamas W, Palmer L, Lui B, Borovac J, Cohn BA, Schmitz L   
 _____________________
 
 © ValeroLab 2015-2016
